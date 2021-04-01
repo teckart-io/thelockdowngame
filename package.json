@@ -1,0 +1,23 @@
+{
+  "name": "starting_file",
+  "version": "1.0.0",
+  "description": "Lockdown Calm Down :)",
+  "main": "js.js",
+  "scripts": {
+    "sass" : "sass --watch ./main.scss:./style.css",
+		"start": "node .",
+		"lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KobeKenjo/basic_project_file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KobeKenjo/basic_project_file/issues"
+  },
+  "homepage": "https://github.com/KobeKenjo/basic_project_file#readme"
+}
